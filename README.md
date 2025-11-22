@@ -1,5 +1,4 @@
 # 📈 Multi-Graph Visualization (2x2 Grid)
-
 This project demonstrates how to create a **2x2 grid of plots** using **Matplotlib** in Python.  
 Each subplot represents a unique mathematical transformation of a list of numbers — providing an intuitive way to visualize **linear**, **quadratic**, **square root**, and **subtractive** relationships.
 
