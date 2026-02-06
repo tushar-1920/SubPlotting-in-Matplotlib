@@ -5,7 +5,7 @@ Each subplot represents a unique mathematical transformation of a list of number
 ---
 
 ## 📷 Preview
-The figure below shows the 2x2 grid of plots: g
+The figure below shows the 2x2 grid of plots: 
 
 
 <img width="1105" height="723" alt="Screenshot 2025-07-21 083820" src="https://github.com/user-attachments/assets/c76be785-c9be-41f2-9114-a8fe4612c647" />
