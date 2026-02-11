@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-ffff
+fff
 # Data
 x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 y1 = [i * 2 for i in x]
